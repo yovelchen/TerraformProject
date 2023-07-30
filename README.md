@@ -21,4 +21,4 @@ Then, open a PowerShell/CMD terminal in the terraform directory and run the foll
     
     $ terraform apply
 
-![architecture]([map.png](https://gitlab.com/sela-1090/students/yovelchen/terraform_exercise/-/blob/terraform-infrastructure/map.png)https://gitlab.com/sela-1090/students/yovelchen/terraform_exercise/-/blob/terraform-infrastructure/map.png)
+![architecture](https://github.com/yovelchen/azureProject/blob/main/map.png)
