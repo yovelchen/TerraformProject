@@ -3,7 +3,7 @@
 [Module 07 - Azure Project.pdf](https://github.com/yovelchen/azure_project/files/11929569/Module.07.-.Azure.Project.pdf)
 ![rg-gifts-yovel-we](https://github.com/yovelchen/azureProject/assets/134883587/8159e8a0-a14b-41eb-8ba8-4759af2fad19)
 
-### ! The steps shown are before writing the Terraform, the exersice first part was to build this architecture manually, the second part was to aplly the whole thing with Terraform. 
+### ! The steps shown are before writing the Terraform, the exersice first part was to build this architecture manually, the second part was to apply the whole thing with Terraform. 
 
 ### azure set up 
 https://github.com/yovelchen/azureProject/tree/main/MyExportedTemplate-rg-gifts-yovel-we
